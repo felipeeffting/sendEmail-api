@@ -1,4 +1,4 @@
-package com.algaworks.algafood;
+package com.nino.mail;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
